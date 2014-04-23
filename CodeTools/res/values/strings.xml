@@ -1,5 +1,8 @@
 <resources>
 
     <string name="app_name">CodeTools</string>
+    <string name="netstate">判断网络连接状态</string>
+    <string name="status">状态</string>
+    <string name="way">方式</string>
 
 </resources>
