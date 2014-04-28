@@ -1,10 +1,9 @@
-package com.shichunxiang.codetools.ui;
+package com.shichunxiang.codetools.net;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 import com.example.codetools.R;
-import com.shichunxiang.codetools.net.DeviceNetInfoUtil;
 
 public class MainActivity extends Activity {
 	
